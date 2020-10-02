@@ -1,4 +1,15 @@
-﻿using System;
+﻿//Name: Isaac Ingles
+//Class: INFO 1200
+//Section: X01
+//Professor: Jensen
+//Date: 10/01/2020
+//Project #: Participation 8
+//I declare that the source code contained in this assignment was written solely by me.
+//I understand that copying any source code, in whole or in part,
+// constitutes cheating, and that I will receive a zero on this project
+// if I am found in violation of this policy.
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -16,7 +27,8 @@ namespace iipizzaorder
         }
 
         /// <summary>
-        ///   Check to see if the buttons are toggled
+        ///   Check to see if the buttons are toggled and a crust is selected,
+        ///   then display alerts for each case or when an order is successful
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
