@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iipizzaorder.Android", "iipizzaorder.Android\iipizzaorder.Android.csproj", "{BA7348DF-4B61-4D66-A61D-0C68A3879B9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iipizzaorder", "iipizzaorder\iipizzaorder.csproj", "{2983DFB0-D5D4-4077-AD33-15BE0BBF8EAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA7348DF-4B61-4D66-A61D-0C68A3879B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7348DF-4B61-4D66-A61D-0C68A3879B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7348DF-4B61-4D66-A61D-0C68A3879B9A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BA7348DF-4B61-4D66-A61D-0C68A3879B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7348DF-4B61-4D66-A61D-0C68A3879B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA7348DF-4B61-4D66-A61D-0C68A3879B9A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2983DFB0-D5D4-4077-AD33-15BE0BBF8EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2983DFB0-D5D4-4077-AD33-15BE0BBF8EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2983DFB0-D5D4-4077-AD33-15BE0BBF8EAB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2983DFB0-D5D4-4077-AD33-15BE0BBF8EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2983DFB0-D5D4-4077-AD33-15BE0BBF8EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2983DFB0-D5D4-4077-AD33-15BE0BBF8EAB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53532A74-7753-4886-9402-1576FD0E45B9}
+	EndGlobalSection
+EndGlobal
